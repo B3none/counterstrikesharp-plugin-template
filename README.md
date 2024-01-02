@@ -4,9 +4,9 @@
 ## Progress
 - [x] These will
 - [x] Help you
-- [] Keep people
+- [ ] Keep people
 - [x] Up to date
-- [] With your progress
+- [ ] With your progress
 
 ## Installation
 1. Download the zip file from the latest release, and extract the contents into your `counterstrikesharp/plugins` directory.
