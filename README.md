@@ -8,8 +8,8 @@
 - [x] Up to date
 - [ ] With your progress
 
-## Installation
-1. Download the zip file from the latest release, and extract the contents into your `counterstrikesharp/plugins` directory.
-
 ## Setup for local development
-Download the latest release of CounterStrikeSharp, and put the contents into the `CounterStrikeSharp` directory.
+1. Install dotnet 7.0 locally
+2. Clone the repository
+3. Run `dotnet restore` to install dependencies
+4. Run `dotnet build` to build the project
