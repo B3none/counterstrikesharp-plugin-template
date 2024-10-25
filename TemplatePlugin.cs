@@ -6,7 +6,7 @@ using CounterStrikeSharp.API.Modules.Utils;
 
 namespace TemplatePlugin;
 
-[MinimumApiVersion(150)]
+[MinimumApiVersion(284)]
 public class TemplatePlugin : BasePlugin
 {
     private const string Version = "1.0.0";
